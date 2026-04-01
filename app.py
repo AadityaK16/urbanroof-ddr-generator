@@ -30,7 +30,7 @@ st.divider()
 st.markdown("### Sample Output")
 st.markdown("The system generated this DDR from the provided inspection documents:")
 
-with open("DDR_Report_Flat103.pdf", "rb") as f:
+with open("Sample_output_DDR_Report_Flat103.pdf", "rb") as f:
     st.download_button(
         label="📄 Download Sample DDR Report",
         data=f,
