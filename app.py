@@ -54,4 +54,4 @@ with col3:
 
 st.divider()
 st.markdown("**Output includes:** Property Issue Summary · Area-wise Observations · Root Cause · Severity Assessment · Recommended Actions · Missing Information")
-st.caption("Built by [Your Name] | UrbanRoof AI Generalist Assignment")
+st.caption("Built by Aaditya M Kulkarni | UrbanRoof AI Generalist Assignment")
